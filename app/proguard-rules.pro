@@ -1,0 +1,2 @@
+-keep class com.example.deviceadminmanager.** { *; }
+-keepclassmembers class com.example.deviceadminmanager.CustomDeviceAdminReceiver { *; }
